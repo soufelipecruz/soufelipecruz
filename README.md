@@ -24,7 +24,7 @@ I'm a developer eager to learn more and more. 🚀
 </div>
   
  ##
- ### Minhas redes!
+ ### My networks:
 <div> 
   <a href="https://instagram.com/devcruz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://chat.whatsapp.com/EIVzUhdVjYq12GSWhqEjXk" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
