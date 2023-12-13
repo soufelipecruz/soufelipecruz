@@ -1,4 +1,7 @@
-## Hello, i'm Felipe Cruz and welcome to my profile! 👨‍💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=header"/>
+<h2 align="center">
+  Hello, i'm Felipe Cruz and welcome to my profile! 👨‍💻
+</h2>
 
 I'm a developer eager to learn more and more. 🚀
 
@@ -34,6 +37,4 @@ I'm a developer eager to learn more and more. 🚀
   <a href="www.linkedin.com/in/felipecruzsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="t.me/@FelipeCruz_23" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=footer"/>
