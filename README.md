@@ -11,10 +11,10 @@ I'm a developer eager to learn more and more. 🚀
 - I want to become a reference in programming and encourage people with my challenges. 🚀
   
 ##
-<div>
+<div align="center">
   <a href="https://github.com/soufelipecruz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=soufelipecruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufelipecruz&layout=compact&langs_count=16&theme=radical"/>
+ <img height="180em" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=soufelipecruz&theme=radical&mode=weekly" />
+ <img height="180em" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=soufelipecruz&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ### Technologies:
