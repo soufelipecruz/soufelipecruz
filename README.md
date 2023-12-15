@@ -13,8 +13,8 @@ I'm a developer eager to learn more and more. 🚀
 ##
 <div align="center">
   <a href="https://github.com/soufelipecruz">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=soufelipecruz&theme=radical&mode=weekly" />
- <img height="180em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=soufelipecruz&show_icons=true&theme=radical&layout=compact" />
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=soufelipecruz&theme=radical&mode=weekly" />
+ <img height="160em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=soufelipecruz&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ### Technologies:
